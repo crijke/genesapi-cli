@@ -33,6 +33,12 @@ COMMANDS = {
             'help': 'Directory with raw cubes downloaded via the `fetch` command'
         },)
     },
+    'build_inventory': {
+        'args': ({
+                     'flag': 'directory',
+                     'help': 'Directory with raw cubes downloaded via the `fetch` command'
+                 },)
+    },
     'build_markdown': {
         'args': ({
             'flag': 'schema',

@@ -44,6 +44,7 @@ from genesapi.exceptions import StorageDoesNotExist, ShouldNotHappen
 from genesapi.soap_services import IndexService, ExportService
 from genesapi.util import (
     EXCLUDE_KEYS,
+    GENESIS_REGIONS,
     cached_property,
     get_value_from_file,
     is_isoformat,

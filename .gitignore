@@ -107,3 +107,6 @@ logstash.conf
 .DS_Store
 .idea
 genesapi-cli.iml
+/example/data/attributes
+/example/data/cubes
+/data/
