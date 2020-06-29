@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 catalog.yml
 logstash.conf
+.DS_Store
+.idea
+genesapi-cli.iml
